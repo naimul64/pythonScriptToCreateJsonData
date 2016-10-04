@@ -1,5 +1,6 @@
 import random
 
+noOfScanBySingleScanner = 1000;
 def createNID():
     return "12345678901234567"
 
@@ -37,4 +38,34 @@ def prepareName():
 
     return name;
 
-dictionary = ["_class" : "com.progoti.kycreader.server.core.domains.DisbursementSheet"]
+def getScannerId(index):
+    scannerId = "s1psl";
+    scannerId += str(int(index/noOfScanBySingleScanner) + 1);
+    return scannerId;
+
+def getSeq(index):
+    return str(index%noOfScanBySingleScanner + 1);
+
+def getSrcFileName():
+    return "rotate.pdf";
+
+def getFullImg():
+    return "rotate.pdf";
+
+def getimgPath():
+    return "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Einstein_Szilard_p1.jpg/220px-Einstein_Szilard_p1.jpg"
+
+def getStatus():
+    return "PROCESSED"
+
+
+for index in range(1, 1000):
+    dictionary = {"_class" : "com.progoti.kycreader.server.core.domains.DisbursementSheet"}
+    dictionary['scannerId'] = getScannerId(index);
+    dictionary['seq'] = getSeq(index);
+    dictionary['srcFileName'] = getSrcFileName()
+    dictionary['fullImg'] = getFullImg();
+    dictionary['status'] = getStatus()
+
+
+    print dictionary;
