@@ -1,0 +1,464 @@
+KYC FORMAT:
+{
+    "_class" : "com.progoti.kycreader.server.core.domains.KycForm",
+    "fullImg" : "00003_2016_09_13_18_59_46\\ActualImage.png",
+    "status" : "PROCESSED",
+    "nameFieldValueMap" : {
+        "NID" : {
+            "characterList" : [ 
+                {
+                    "val" : "1",
+                    "score" : 1
+                }, 
+                {
+                    "val" : "9",
+                    "score" : 84
+                }, 
+                {
+                    "val" : "7",
+                    "score" : 69
+                }, 
+                {
+                    "val" : "6",
+                    "score" : 100
+                }, 
+                {
+                    "val" : "2",
+                    "score" : 100
+                }, 
+                {
+                    "val" : "4",
+                    "score" : 100
+                }, 
+                {
+                    "val" : "0",
+                    "score" : 72
+                }, 
+                {
+                    "val" : "0",
+                    "score" : 83
+                }, 
+                {
+                    "val" : "9",
+                    "score" : 83
+                }, 
+                {
+                    "val" : "2",
+                    "score" : 67
+                }, 
+                {
+                    "val" : "0",
+                    "score" : 91
+                }, 
+                {
+                    "val" : "1",
+                    "score" : 1
+                }, 
+                {
+                    "val" : "4",
+                    "score" : 64
+                }, 
+                {
+                    "val" : "2",
+                    "score" : 100
+                }, 
+                {
+                    "val" : "6",
+                    "score" : 88
+                }, 
+                {
+                    "val" : "4",
+                    "score" : 61
+                }, 
+                {
+                    "val" : "2",
+                    "score" : 88
+                }
+            ],
+            "imgPath" : "00003_2016_09_13_18_59_46\\NID.png",
+            "fieldName" : "NID",
+            "value" : "19762400920142642",
+            "_class" : "com.progoti.kycreader.commons.models.TextInputFieldValue"
+        },
+        "SCHOOL_CODE" : {
+            "characterList" : [ 
+                {
+                    "val" : "0",
+                    "score" : 62
+                }, 
+                {
+                    "val" : "1",
+                    "score" : 1
+                }, 
+                {
+                    "val" : "0",
+                    "score" : 100
+                }, 
+                {
+                    "val" : "2",
+                    "score" : 100
+                }, 
+                {
+                    "val" : "0",
+                    "score" : 79
+                }, 
+                {
+                    "val" : "3",
+                    "score" : 100
+                }, 
+                {
+                    "val" : "4",
+                    "score" : 100
+                }, 
+                {
+                    "val" : "1",
+                    "score" : 100
+                }, 
+                {
+                    "val" : "2",
+                    "score" : 69
+                }, 
+                {
+                    "val" : "6",
+                    "score" : 79
+                }, 
+                {
+                    "val" : "2",
+                    "score" : 100
+                }
+            ],
+            "imgPath" : "00003_2016_09_13_18_59_46\\SCHOOL_CODE.png",
+            "fieldName" : "SCHOOL_CODE",
+            "value" : "01020341262",
+            "_class" : "com.progoti.kycreader.commons.models.TextInputFieldValue"
+        },
+        "NAME" : {
+            "characterList" : [ 
+                {
+                    "val" : "J",
+                    "score" : 72
+                }, 
+                {
+                    "val" : "O",
+                    "score" : 100
+                }, 
+                {
+                    "val" : "H",
+                    "score" : 87
+                }, 
+                {
+                    "val" : "U",
+                    "score" : 88
+                }, 
+                {
+                    "val" : "R",
+                    "score" : 100
+                }, 
+                {
+                    "val" : "A",
+                    "score" : 27
+                }, 
+                {
+                    "val" : " ",
+                    "score" : 100
+                }, 
+                {
+                    "val" : "B",
+                    "score" : 75
+                }, 
+                {
+                    "val" : "E",
+                    "score" : 79
+                }, 
+                {
+                    "val" : "G",
+                    "score" : 100
+                }, 
+                {
+                    "val" : "U",
+                    "score" : 79
+                }, 
+                {
+                    "val" : "M",
+                    "score" : 38
+                }
+            ],
+            "imgPath" : "00003_2016_09_13_18_59_46\\NAME.png",
+            "fieldName" : "NAME",
+            "value" : "JOHURA BEGUM",
+            "_class" : "com.progoti.kycreader.commons.models.TextInputFieldValue"
+        },
+        "MOBILE" : {
+            "characterList" : [ 
+                {
+                    "val" : "0",
+                    "score" : 94
+                }, 
+                {
+                    "val" : "7",
+                    "score" : 100
+                }, 
+                {
+                    "val" : "8",
+                    "score" : 58
+                }, 
+                {
+                    "val" : "2",
+                    "score" : 100
+                }, 
+                {
+                    "val" : "1",
+                    "score" : 55
+                }, 
+                {
+                    "val" : "9",
+                    "score" : 63
+                }, 
+                {
+                    "val" : "4",
+                    "score" : 40
+                }, 
+                {
+                    "val" : "0",
+                    "score" : 95
+                }, 
+                {
+                    "val" : "0",
+                    "score" : 58
+                }, 
+                {
+                    "val" : "6",
+                    "score" : 92
+                }, 
+                {
+                    "val" : "2",
+                    "score" : 29
+                }
+            ],
+            "imgPath" : "00003_2016_09_13_18_59_46\\MOBILE.png",
+            "fieldName" : "MOBILE",
+            "value" : "07821940062",
+            "_class" : "com.progoti.kycreader.commons.models.TextInputFieldValue"
+        }
+    },
+    "scannerId" : "s1psl",
+    "seq" : 1.0
+}
+
+DS DATA FORMAT:
+{
+    "_class" : "com.progoti.kycreader.server.core.domains.DisbursementSheet",
+    "scannerId" : "s1v1",
+    "seq" : 1,
+    "srcFileName" : "rotate.pdf",
+    "fullImg" : "rotate.pdf",
+    "status" : "PROCESSED",
+    "schoolCode" : {
+        "value" : {
+            "icrChars" : [ 
+                {
+                    "val" : "1",
+                    "score" : 100
+                }, 
+                {
+                    "val" : "2",
+                    "score" : 100
+                }, 
+                {
+                    "val" : "0",
+                    "score" : 100
+                }, 
+                {
+                    "val" : "0",
+                    "score" : 100
+                }, 
+                {
+                    "val" : "9",
+                    "score" : 90
+                }, 
+                {
+                    "val" : "8",
+                    "score" : 77
+                }, 
+                {
+                    "val" : "4",
+                    "score" : 71
+                }, 
+                {
+                    "val" : "5",
+                    "score" : 60
+                }, 
+                {
+                    "val" : "9",
+                    "score" : 56
+                }, 
+                {
+                    "val" : "2",
+                    "score" : 100
+                }, 
+                {
+                    "val" : "2",
+                    "score" : 77
+                }
+            ],
+            "original" : "12009845922",
+            "imgPath" : "rotate_2016_09_14_11_39_03/SCHOOL_CODE.png"
+        }
+    },
+    "data" : [
+        {
+            "slNo" : {
+                "icrChars" : [ 
+                    {
+                        "val" : "2",
+                        "score" : 100
+                    }, 
+                    {
+                        "val" : " ",
+                        "score" : 100
+                    }, 
+                    {
+                        "val" : "=",
+                        "score" : 5
+                    }
+                ],
+                "original" : "2 =",
+                "imgPath" : "rotate_2016_09_14_11_39_03/SL_NO1.png"
+            },
+            "name" : {
+                "icrChars" : [ 
+                    {
+                        "val" : "R",
+                        "score" : 100
+                    }, 
+                    {
+                        "val" : "O",
+                        "score" : 0
+                    }, 
+                    {
+                        "val" : "K",
+                        "score" : 59
+                    }, 
+                    {
+                        "val" : "S",
+                        "score" : 43
+                    }, 
+                    {
+                        "val" : "A",
+                        "score" : 100
+                    }, 
+                    {
+                        "val" : "N",
+                        "score" : 90
+                    }, 
+                    {
+                        "val" : "A",
+                        "score" : 88
+                    }
+                ],
+                "original" : "ROKSANA",
+                "imgPath" : "rotate_2016_09_14_11_39_03/NAME1.png"
+            },
+            "mobile" : {
+                "icrChars" : [ 
+                    {
+                        "val" : "0",
+                        "score" : 100
+                    }, 
+                    {
+                        "val" : "1",
+                        "score" : 100
+                    }, 
+                    {
+                        "val" : "9",
+                        "score" : 100
+                    }, 
+                    {
+                        "val" : "8",
+                        "score" : 0
+                    }, 
+                    {
+                        "val" : "0",
+                        "score" : 41
+                    }, 
+                    {
+                        "val" : "2",
+                        "score" : 11
+                    }, 
+                    {
+                        "val" : "0",
+                        "score" : 79
+                    }, 
+                    {
+                        "val" : "1",
+                        "score" : 100
+                    }, 
+                    {
+                        "val" : "1",
+                        "score" : 100
+                    }, 
+                    {
+                        "val" : "1",
+                        "score" : 100
+                    }, 
+                    {
+                        "val" : "1",
+                        "score" : 100
+                    }
+                ],
+                "original" : "01980201111",
+                "imgPath" : "rotate_2016_09_14_11_39_03/MOBILE1.png"
+            },
+            "nid" : {
+                "icrChars" : [ 
+                    {
+                        "val" : "0",
+                        "score" : 100
+                    }, 
+                    {
+                        "val" : "1",
+                        "score" : 1
+                    }, 
+                    {
+                        "val" : "2",
+                        "score" : 100
+                    }
+                ],
+                "original" : "012",
+                "imgPath" : "rotate_2016_09_14_11_39_03/NID1.png"
+            },
+            "stdntCount" : {
+                "icrChars" : [ 
+                    {
+                        "val" : "1",
+                        "score" : 100
+                    }
+                ],
+                "original" : "1",
+                "imgPath" : "rotate_2016_09_14_11_39_03/STUDENT_COUNT1.png"
+            },
+            "amount" : {
+                "icrChars" : [ 
+                    {
+                        "val" : "1",
+                        "score" : 100
+                    }, 
+                    {
+                        "val" : "2",
+                        "score" : 10
+                    }, 
+                    {
+                        "val" : "0",
+                        "score" : 100
+                    }, 
+                    {
+                        "val" : "0",
+                        "score" : 48
+                    }
+                ],
+                "original" : "1200",
+                "imgPath" : "rotate_2016_09_14_11_39_03/AMOUNT1.png"
+            }
+        }
+    ]
+}
